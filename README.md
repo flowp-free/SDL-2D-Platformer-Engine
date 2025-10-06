@@ -11,6 +11,7 @@ As development progressed, the project naturally evolved into a game engine in i
 You can compile the project using the following make commands:
 
 make all — builds the project
+
 make clean all — cleans previous builds and then compiles the project
 
 Ensure that your system has a proper C++ build environment and SDL2 installed
